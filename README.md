@@ -1,4 +1,4 @@
-# You Forgot. That's the Game.
+# You Forget. That's the Game.
 
 A framework, revised 2026 — by Vishwanath Kothapalli.
 
